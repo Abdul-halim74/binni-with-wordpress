@@ -1,0 +1,84 @@
+
+---Downloaded files---
+The import files for: Bakes And Cakes Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/rara-demo-pack/restaurant-and-cafe-demo-content/content/restaurant.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/rara-demo-pack/restaurant-and-cafe-demo-content/content/restaurant.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/rara-demo-pack/restaurant-and-cafe-demo-content/content/restaurant.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Recent Posts - Recent Posts - Imported
+
+Footer Widget One : 
+
+Text - No Title - Imported
+
+Footer Widget Two : 
+
+Text - No Title - Imported
+
+Footer Widget Three : 
+
+RARA: Social Links - Subscribe &amp; Follow - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
